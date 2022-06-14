@@ -32,3 +32,16 @@ bottom: 120px;
   bottom: 100px;
   left: 650px;
 }
+.back{
+  font-style: normal;
+  background-color: black;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 4px;
+  border-color: grey;
+}
+.button{
+  position: relative;
+bottom: 100px;
+  left: 600px;
+}
